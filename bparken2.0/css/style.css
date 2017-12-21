@@ -161,41 +161,39 @@ i.fa-instagram {
     }
   }
 }*/
-  nav {
-    list-style-type: none;
-    margin: 0;
-    margin-top: 50px;
-    padding: 0;
-    overflow: hidden;
-    /*border-top: solid 3px black;
-    border-bottom: solid 3px black;*/
-    float: right;
-  }
+  /* nav{
+        list-style-type: none;
+        margin: 0;
+        margin-top: 50px;
+        padding: 0;
+        overflow: hidden;
+        border-top: solid 3px black;
+        border-bottom: solid 3px black;
+        float: right;
+    }
 
-  ul {
-    list-style-type: none;
-  }
+    ul {
+      list-style-type: none;
+    }
+    li {
+      display: inline;
+    }
 
-  li {
-    display: inline;
-  }
-
-  a {
-    display: block;
-    color: Black;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-  }
+    a {
+        display: block;
+        color: Black;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
 
   a:hover:not(.active) {
-    background-color: #111;
-  }
+        background-color: #111;
+    }
 
-  .active {
-    background-color: #4CAF50;
-  }
-
+    .active {
+        background-color: #4CAF50;
+    }*/
   .logo {
     position: absolute;
     top: 10px;
